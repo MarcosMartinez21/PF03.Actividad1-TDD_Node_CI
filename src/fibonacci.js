@@ -16,4 +16,5 @@ export const fibonacci = (n) => {
         b = acum
     }
     return b
+    
 }
