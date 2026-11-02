@@ -31,4 +31,5 @@ export const esPinValido = (pin) => {
     }
 
     return true;
+    
 }
